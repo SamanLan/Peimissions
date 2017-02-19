@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="md_dialog_title">提示</string>
+    <string name="md_dialog_content">内容</string>
+    <string name="md_dialog_ok">确认</string>
+    <string name="md_dialog_cancel">取消</string>
+    <string name="md_dialog_content_head">我们需要以下权限为你工作，请点击“确定”开启权限</string>
+</resources>
